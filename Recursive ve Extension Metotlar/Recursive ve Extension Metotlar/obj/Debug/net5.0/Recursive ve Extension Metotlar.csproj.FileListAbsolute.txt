@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\bin\Debug\net5.0\Recursive ve Extension Metotlar.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\bin\Debug\net5.0\Recursive ve Extension Metotlar.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\bin\Debug\net5.0\Recursive ve Extension Metotlar.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\bin\Debug\net5.0\Recursive ve Extension Metotlar.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\bin\Debug\net5.0\Recursive ve Extension Metotlar.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\bin\Debug\net5.0\ref\Recursive ve Extension Metotlar.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\bin\Debug\net5.0\Recursive ve Extension Metotlar.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\obj\Debug\net5.0\Recursive ve Extension Metotlar.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\obj\Debug\net5.0\Recursive ve Extension Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\obj\Debug\net5.0\Recursive ve Extension Metotlar.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\obj\Debug\net5.0\Recursive ve Extension Metotlar.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\obj\Debug\net5.0\Recursive ve Extension Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\obj\Debug\net5.0\Recursive ve Extension Metotlar.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\obj\Debug\net5.0\ref\Recursive ve Extension Metotlar.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\obj\Debug\net5.0\Recursive ve Extension Metotlar.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Recursive ve Extension Metotlar\Recursive ve Extension Metotlar\obj\Debug\net5.0\Recursive ve Extension Metotlar.genruntimeconfig.cache
